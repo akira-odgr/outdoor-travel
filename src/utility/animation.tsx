@@ -1,5 +1,3 @@
-import { delay } from "framer-motion";
-
 type AnimationVariant = {
     hidden: {
         opacity: number;
